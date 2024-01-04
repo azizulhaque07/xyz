@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+
+footer {
+  background: linear-gradient(to right, #00093c, #2d0b00);
+  color: #fff;
+  font-size: 13px;
+  line-height: 20px;
+  padding: 100px 0 30px;
+  border-top-left-radius: 125px;
+}
